@@ -1,0 +1,190 @@
+{
+  "CurrentPlayer": false,
+  "Pieces": {
+    "8": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "9": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "10": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "11": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "12": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "29": {
+      "$type": "pawn",
+      "HasMoved": true,
+      "Value": 1,
+      "Color": true
+    },
+    "14": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "15": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": true
+    },
+    "1": {
+      "$type": "knight",
+      "Value": 3,
+      "Color": true
+    },
+    "6": {
+      "$type": "knight",
+      "Value": 3,
+      "Color": true
+    },
+    "2": {
+      "$type": "bishop",
+      "Value": 3,
+      "Color": true
+    },
+    "5": {
+      "$type": "bishop",
+      "Value": 3,
+      "Color": true
+    },
+    "0": {
+      "$type": "rook",
+      "HasMoved": false,
+      "Value": 5,
+      "Color": true
+    },
+    "7": {
+      "$type": "rook",
+      "HasMoved": false,
+      "Value": 5,
+      "Color": true
+    },
+    "3": {
+      "$type": "queen",
+      "Value": 10,
+      "Color": true
+    },
+    "4": {
+      "$type": "king",
+      "HasMoved": false,
+      "Value": 0,
+      "Color": true
+    },
+    "48": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "49": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "50": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "51": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "52": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "53": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "54": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "55": {
+      "$type": "pawn",
+      "HasMoved": false,
+      "Value": 1,
+      "Color": false
+    },
+    "57": {
+      "$type": "knight",
+      "Value": 3,
+      "Color": false
+    },
+    "62": {
+      "$type": "knight",
+      "Value": 3,
+      "Color": false
+    },
+    "58": {
+      "$type": "bishop",
+      "Value": 3,
+      "Color": false
+    },
+    "61": {
+      "$type": "bishop",
+      "Value": 3,
+      "Color": false
+    },
+    "56": {
+      "$type": "rook",
+      "HasMoved": false,
+      "Value": 5,
+      "Color": false
+    },
+    "63": {
+      "$type": "rook",
+      "HasMoved": false,
+      "Value": 5,
+      "Color": false
+    },
+    "59": {
+      "$type": "queen",
+      "Value": 10,
+      "Color": false
+    },
+    "60": {
+      "$type": "king",
+      "HasMoved": false,
+      "Value": 0,
+      "Color": false
+    }
+  },
+  "EnPassantIndex": 21,
+  "LastMoveF": 13,
+  "LastMoveT": 29
+}
